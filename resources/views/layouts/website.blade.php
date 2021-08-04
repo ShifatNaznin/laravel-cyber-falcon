@@ -152,6 +152,7 @@
                             class="section-title section-title-left section-title-second section-title-second-dark text-start">
                             <!-- <small>Welcome To Cyber Falcon To Secure Your Data</small> -->
                             <h2>"Zero-touch" Cyber Resiliency Services For All</h2>
+                            {{-- <h2>"Zero-touch" Cyber Resiliency Services For All</h2> --}}
                             <p>CYBERFALCON’s Cyber Resiliency Services enables Consultants | MSSPs | MSPs and others to
                                 provide to their customers a full stack of advance Cyber Resilience Services to include:
                             </p>
