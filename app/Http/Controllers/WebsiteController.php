@@ -39,6 +39,7 @@ class WebsiteController extends Controller
         Mail::to($send_email)->send(new ContactMail($data));
         Session::flash(
             'success',
+            'Thank you for Subscribing',
             'Thank you for Subscribing'
         );
 
